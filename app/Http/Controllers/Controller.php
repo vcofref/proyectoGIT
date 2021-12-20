@@ -11,6 +11,8 @@ use Illuminate\Routing\Controller as BaseController;
 
 // prueba de pull
 
+//prueba de rama
+
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
