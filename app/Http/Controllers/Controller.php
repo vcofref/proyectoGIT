@@ -9,6 +9,8 @@ use Illuminate\Routing\Controller as BaseController;
 
 // prueba de push
 
+// prueba de pull
+
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
